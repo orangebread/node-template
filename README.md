@@ -20,6 +20,6 @@ Install all client dependencies
 
 ## Run server
 
-> Run gulp in node terminal/command prompt
+> Run 'gulp' in node terminal/command prompt
 
 All changes made to files will be automatically reloaded.
